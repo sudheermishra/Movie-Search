@@ -8,7 +8,7 @@ https://movienamesearch.netlify.app/
 ---
 
 ## 📸 Preview
-(./src/assets/moviesearch.png)
+<img width="1083" height="842" alt="Image" src="https://github.com/user-attachments/assets/c0d112dc-454b-4245-82ff-71affac63fb3" />
 
 
 
